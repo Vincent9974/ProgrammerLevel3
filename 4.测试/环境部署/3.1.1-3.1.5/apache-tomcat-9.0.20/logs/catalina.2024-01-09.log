@@ -1,0 +1,44 @@
+09-Jan-2024 23:58:14.243 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:        Apache Tomcat/9.0.20
+09-Jan-2024 23:58:14.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.构建:          May 3 2019 22:26:00 UTC
+09-Jan-2024 23:58:14.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.20.0
+09-Jan-2024 23:58:14.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+09-Jan-2024 23:58:14.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:            10.0
+09-Jan-2024 23:58:14.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 结.造:          amd64
+09-Jan-2024 23:58:14.256 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:             C:\Program Files\Java\jdk1.8.0_202\jre
+09-Jan-2024 23:58:14.257 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:           1.8.0_202-b08
+09-Jan-2024 23:58:14.257 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            Oracle Corporation
+09-Jan-2024 23:58:14.257 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20
+09-Jan-2024 23:58:14.258 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20
+09-Jan-2024 23:58:14.259 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\conf\logging.properties
+09-Jan-2024 23:58:14.260 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+09-Jan-2024 23:58:14.261 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+09-Jan-2024 23:58:14.262 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+09-Jan-2024 23:58:14.263 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+09-Jan-2024 23:58:14.263 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20
+09-Jan-2024 23:58:14.264 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20
+09-Jan-2024 23:58:14.264 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\temp
+09-Jan-2024 23:58:14.266 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.21] using APR version [1.6.5].
+09-Jan-2024 23:58:14.311 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+09-Jan-2024 23:58:14.311 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+09-Jan-2024 23:58:14.325 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1a  20 Nov 2018]
+09-Jan-2024 23:58:14.507 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+09-Jan-2024 23:58:14.816 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["ajp-nio-8009"]
+09-Jan-2024 23:58:14.822 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[721]毫秒内初始化
+09-Jan-2024 23:58:14.848 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+09-Jan-2024 23:58:14.848 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.20]
+09-Jan-2024 23:58:14.865 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\amz.war]
+09-Jan-2024 23:58:19.706 信息 [main] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+09-Jan-2024 23:58:20.117 信息 [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\amz.war] has finished in [5,251] ms
+09-Jan-2024 23:58:20.120 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\docs]
+09-Jan-2024 23:58:20.175 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\docs] has finished in [55] ms
+09-Jan-2024 23:58:20.177 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\examples]
+09-Jan-2024 23:58:20.739 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\examples] has finished in [563] ms
+09-Jan-2024 23:58:20.741 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\host-manager]
+09-Jan-2024 23:58:20.772 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\host-manager] has finished in [31] ms
+09-Jan-2024 23:58:20.775 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\manager]
+09-Jan-2024 23:58:20.806 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\manager] has finished in [31] ms
+09-Jan-2024 23:58:20.807 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\ROOT]
+09-Jan-2024 23:58:20.828 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\Vincent\Desktop\程序设计员\题库及素材word版-计算机程序设计员三级\计算机程序设计员_三级_操作技能题库\3-考核单元三（必考）\环境部署\3.1.1-3.1.5\apache-tomcat-9.0.20\webapps\ROOT] has finished in [20] ms
+09-Jan-2024 23:58:20.832 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+09-Jan-2024 23:58:20.839 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["ajp-nio-8009"]
+09-Jan-2024 23:58:20.841 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [6,017] milliseconds
